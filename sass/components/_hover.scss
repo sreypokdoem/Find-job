@@ -1,0 +1,94 @@
+
+//===============login===================
+
+.group-img>img:hover{
+    background-color: $hovercolor;
+
+}
+.form-first>input:hover{
+background-color: $hovercolor;
+box-shadow:  rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.btn>button:hover{
+background-color: rgb(86, 48, 122);
+
+}
+
+//=================homepage===============
+//================nav==========
+
+.navbar-center>a:hover{
+    border: 2px solid $hovercolor;
+    padding: $lg-padding;
+}
+.navbar-right>button:hover{
+    background-color: $hovercolor;
+    a{
+        color: black;
+    }
+}
+.navbar-right>#log_out:hover{
+    background-color: rgb(86, 48, 122);
+    a{
+        color: white;
+    }
+}
+
+//==========search==================
+.maincontain1-left>input:hover{
+    background-color: $hovercolor;
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+.maincontain1-btn>button:hover{
+    background-color: rgb(86, 48, 122);
+}
+
+//==================select===========
+.contain-select>select:hover{
+    box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+
+}
+//==================card===============
+
+.card-item:hover{
+    background-color: $hovercolor;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px,rgba(248, 251, 248, 0.22) 0px 15px 12px;
+    
+}
+.card-item-btn>button:hover{
+    background-color:  rgb(86, 48, 122);;
+}
+
+//===========================aboutpage================
+
+.card-item1:hover{
+    background-color: rgb(244, 199, 117);
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px,rgba(248, 251, 248, 0.22) 0px 15px 12px;   
+     .card-body{
+        h4,h3{
+            a{
+                color: black;
+            }
+
+        }
+    }
+
+}
+
+//=======================CV==============
+.form>.form-left>input:hover{
+    background-color: $hovercolor;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px,rgba(248, 251, 248, 0.22) 0px 15px 12px;    
+}
+.upload>.form>.form-left>input:hover{
+    background-color: $hovercolor;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px,rgba(248, 251, 248, 0.22) 0px 15px 12px;    
+}
+.main-form>.upload>.btn>button:hover{
+    background-color:  rgb(86, 48, 122);
+}
+.main-form>.upload>.btn>#AP:hover{
+    background-color: rgb(86, 48, 122);
+}
+
+
